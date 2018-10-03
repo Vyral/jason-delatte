@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Delatte Group - your professional Louisiana Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Jason Delatte</managingEditor>
-    <lastBuildDate>2018-10-03 12:30:51 -0500</lastBuildDate>
+    <lastBuildDate>2018-10-03 12:49:49 -0500</lastBuildDate>
     <media:copyright>Jason Delatte</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Louisiana, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,92 +25,385 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <title>How Will Our New Partnership Benefit You?</title>
+        <link>http://localhost:4000/how-will-our-new-partnership-benefit-you.html</link>
         
-          <category>Market Update</category>
+          <category>Louisiana Real Estate</category>
         
-          <category>Real Estate</category>
+          <category>The Delatte Group</category>
         
-          <category>Home Seller Tips</category>
+          <category>New Orleans Real Estate</category>
         
         <author>Jason Delatte</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2018-09-24 15:54:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Reconnect.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+We’re excited to bring you some new developments that are sure to optimize the way in which we serve your real estate needs.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Want to sell your home? Get a FREE home value report
+Want to buy a home? Search all homes for sale
 
-“This is an example of a pull quote”
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+It’s been a while since my last video. During that time, I’ve been working tirelessly to optimize my business and tailor it to match the growth we’ve been experiencing. In doing so, I’m pleased to announce that my wife, Tee, is now my partner. Together, we are now, officially, The Delatte Group.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Not only have we expanded into a partnership, but we’ve expanded into new markets. We continue to be of service in the Houma and Thibodaux markets, and we are now happily servicing your real estate needs in the New Orleans area as well.
+
+“IN THE LAST THREE YEARS, WE HAVE HELPED 91 FAMILIES EITHER PURCHASE THEIR DREAM HOME OR SELL THEIR HOME.”
+
+These new developments to our business are a step forward for us in continuing to bring you optimal service and advice. In the last three years, we have helped 91 families either purchase their dream home or sell their home, and we want to keep this trend going.
+
+So, we’re going to be bringing you two videos a month that will interest you and add value to your home. We look forward to bringing you expert advice for all of your real estate needs.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Reconnect.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Reconnect.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>
+
+We’re excited to bring you some new developments that are sure to optimize the way in which we serve your real estate needs.
+
+</itunes:subtitle>
         <itunes:author>Jason Delatte</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>
+
+We’re excited to bring you some new developments that are sure to optimize the way in which we serve your real estate needs.
+
+</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Louisiana, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
+        <title>What Are the Most Common Home Buying Mistakes?</title>
+        <link>http://localhost:4000/what-are-most-common-home-buying.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Jason Delatte</author>
+        <pubDate>2017-09-08 15:28:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/5+Things+To+Avoid+When+Buying+A+Home+-+Jason+Delatte.mp4</guid>
+        <description>
+
+When making a home purchase, there are a few things you should absolutely avoid doing. Today, I’d like to share five of the worst mistakes you can make during the home buying process.
+
+
+Want to sell your home? Get a FREE home value report
+Want to buy a home? Search all homes for sale
+
+
+People are often curious about what they should avoid during the home buying process. Today, I’ve compiled a list of the five worst things to do when buying a home.
+
+1. Shopping without an agent. Thanks to the Internet, we all have access to pictures, videos, and information from properties on the market. However, this isn’t enough. When you become serious about buying a home, it is critical that you work with an agent.
+
+2. Meeting with just one mortgage company. A home is likely the largest financial asset you will have in your life. It’s important to explore your options before settling on a particular mortgage company.
+
+“WORKING WITH THE RIGHT MORTGAGE COMPANY WILL HELP YOU UNDERSTAND WHICH COSTS TO PREPARE FOR.”
+
+3. Making a lowball offer. Everyone wants a good deal. As a result, many people right now are making ridiculously low offers on homes they love. This is simply not a good idea, since it could lead to you losing out on the right property. Make reasonable offers, instead.
+
+4. Forgetting to budget for closing costs. Sellers do have the option to pay some of the closing costs, but buyers should never assume this will be the case. Working with the right mortgage company is going to really help you understand which costs you’ll need to prepare for.
+
+5. Making big purchases before closing. Buying a home is exciting and can put people in the mood to make purchases in general. This is understandable—but you should definitely wait until after closing. These purchases can actually affect your ability to close, since things like your credit are still being evaluated during escrow.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/5+Things+To+Avoid+When+Buying+A+Home+-+Jason+Delatte.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/5+Things+To+Avoid+When+Buying+A+Home+-+Jason+Delatte.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+When making a home purchase, there are a few things you should absolutely avoid doing. Today, I’d like to share five of the worst mistakes you can make during the home buying process.
+
+</itunes:subtitle>
+        <itunes:author>Jason Delatte</itunes:author>
+        <itunes:summary>
+
+When making a home purchase, there are a few things you should absolutely avoid doing. Today, I’d like to share five of the worst mistakes you can make during the home buying process.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Louisiana, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Is The Delatte Difference?</title>
+        <link>http://localhost:4000/the-delatte-difference.html</link>
+        
+          <category>Home Selling Tips</category>
+        
+        <author>Jason Delatte</author>
+        <pubDate>2017-08-07 11:53:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+The+Delatte+Difference.mp4</guid>
+        <description>
+
+Want to know how to sell your home for top dollar? You’re in luck—I just finished
+a book about it.
+
+
+Want to sell your home? Get a FREE home value report
+Want to buy a home? Search all homes for sale
+
+
+I recently saw a statistic that said 84% of FSBO (for sale by owner) sellers end up listing with a real estate agent. While my hat is off to the 16% of people who were able to sell their home on their own, my focus is on the 84% who didn’t.
+
+Your home is probably your single largest asset and the decision to sell it is one of the biggest financial decisions you’ll ever make. I want to help you make that decision by putting all my knowledge and resources into a book called: “The Delatte Difference: A Step-by-Step Guide to Selling Your Home.”
+
+In this book, I take a detailed look at many aspects of home selling, including the emotional aspect, the most important factors in getting it sold, how to hire agents, how to handle showings, and how to work with offers.
+
+“I TAKE A DEEP LOOK INTO HOME SELLING.”
+
+I’d like to give you a free copy of the book when it’s out in less than a month. If you’d like one, just give me a call or send me an email today and I’ll make sure I send one out. If you have any other real estate questions, I’d be happy to answer them as well. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+The+Delatte+Difference.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+The+Delatte+Difference.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Want to know how to sell your home for top dollar? You’re in luck—I just finished
+a book about it.
+
+</itunes:subtitle>
+        <itunes:author>Jason Delatte</itunes:author>
+        <itunes:summary>
+
+Want to know how to sell your home for top dollar? You’re in luck—I just finished
+a book about it.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Louisiana, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What a 0.5% Interest Rate Hike Means to Your Buying Power</title>
+        <link>http://localhost:4000/jason-delatte-louisiana-real-estate-how.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Jason Delatte</author>
+        <pubDate>2017-06-27 15:37:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+How+rising+interest+rates+affect+you.mp4</guid>
+        <description>
+
+When interest rates go up by even just a fraction of a percent, it can affect your ability to buy a home by tens of thousands of dollars.
+
+
+Want to sell your home? Get a FREE home value report
+Want to buy a home? Search all homes for sale
+
+
+If you’re looking to buy a home, how does a rise in interest rates actually affect you?
+
+Interest rates for homes loans are currently hovering at about 4%, but that might not necessarily be the interest rate you get. The interest rate you get for a home loan is determined by your credit score, income, and debt-to-income ratio.
+
+For example’s sake, though, let’s say your interest rate is 4% and your lender has approved you for a $250,000 loan. Every 0.5% increase in interest rates means you lose 10% of your buying power.
+
+“EVERY 0.5% INCREASE IN INTEREST RATES MEANS YOU LOSE 10% OF YOUR BUYING POWER.”
+
+What does that mean, exactly?
+
+In our example, where you are approved for a $250,000 loan and the interest rate increased from 4% to 4.5%, you would then only be approved for a $225,000 loan. That’s a significant decrease for such a small rise in interest rate.
+
+As a homebuyer, it’s important to grasp how rate fluctuations can impact your buying power. If you’re looking to buy your dream home, now is the time to move while interest rates are so low. I’m here to help.
+
+If you’re thinking of entering the market or have any other questions, don’t hesitate to give me a call or send me an email soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+How+rising+interest+rates+affect+you.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+How+rising+interest+rates+affect+you.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+When interest rates go up by even just a fraction of a percent, it can affect your ability to buy a home by tens of thousands of dollars.
+
+</itunes:subtitle>
+        <itunes:author>Jason Delatte</itunes:author>
+        <itunes:summary>
+
+When interest rates go up by even just a fraction of a percent, it can affect your ability to buy a home by tens of thousands of dollars.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Louisiana, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Is Home Staging Worth It?</title>
+        <link>http://localhost:4000/jason-delatte-louisiana-real-estate-is.html</link>
+        
+          <category>Home Selling Tips</category>
+        
+        <author>Jason Delatte</author>
+        <pubDate>2017-06-20 14:44:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+Is+staging+your+listing+the+right+move.mp4</guid>
+        <description>
+
+How do you know if staging your home is the right move when selling your house?
+
+
+Want to sell your home? Get a FREE home value report
+Want to buy a home? Search all homes for sale
+
+
+If you are selling your house, how do you know if you should stage it before putting it on the market?
+
+Painting, decluttering, and re-carpeting will probably bring you the cheapest bang for your buck when getting your house ready for the market, but I also recommend staging your property.
+
+“PEOPLE THINK ON LOGIC, BUT ACT ON EMOTION.”
+
+Think about it—you see clean, staged homes at the end of every episode of those home-flipping shows that are so popular on TV right now. They all do this because it truly helps them sell the home. The logical thinkers out there might think it’s a waste of your time and money. In real estate, though, logic may make us think, but emotion makes us act.
+
+Of course, you want a buyer to act in the form of bringing a great offer to you for your property. If you’d like any tips about staging a home or about buying or selling real estate in general, don’t hesitate to give me a call or send me an email. I’d be happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+Is+staging+your+listing+the+right+move.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+Is+staging+your+listing+the+right+move.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+How do you know if staging your home is the right move when selling your house?
+
+</itunes:subtitle>
+        <itunes:author>Jason Delatte</itunes:author>
+        <itunes:summary>
+
+How do you know if staging your home is the right move when selling your house?
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Louisiana, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Can't Zillow Give You an Accurate Home Valuation?</title>
+        <link>http://localhost:4000/jason-delatte-louisiana-real-estate.html</link>
+        
+          <category>Louisiana Real Estate</category>
+        
+        <author>Jason Delatte</author>
+        <pubDate>2017-06-14 14:30:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+Don%E2%80%99t+trust+Zestimates.mp4</guid>
+        <description>
+
+Are Zestimates a reliable source of home values? In short, no.
+
+
+Want to sell your home? Get a FREE home value report
+Want to buy a home? Search all homes for sale
+
+
+Zillow’s Zestimate tool is supposed to help you determine your home’s value. Is it up to the job, though?
+
+Unfortunately, Zestimates aren’t very accurate. Generally speaking, they can be off by 10% to 15%. Overvaluing or undervaluing your home by that much in this market is a huge mistake. The problem is that Zillow doesn’t know any specifics about your home that add or detract from its value. They don’t know if you have a view of a lake or pond in your backyard, nor do they know whether you have done upgrades or improvements to the home either.
+
+Because the Zestimates are so inaccurate, Zillow gets their info from the local parish’s assessor’s office. Unfortunately, the local assessor’s information is sometimes 18 months outdated. A whole lot can change in the market in 18 months, so it’s no wonder why these estimates are so inaccurate.
+
+“I CAN GIVE YOU AN ACCURATE HOME VALUE MYSELF.”
+
+While these websites are helpful with starting your research, I highly advise that you don’t make any major decisions based on Zestimates. The good news is that if you do want to know what your home is really worth, I can help. I’ll come out, take a look around, and let you know what kind of sale price you can expect based on current market conditions.
+
+If you have any questions, don’t hesitate to give me a call or send me an email. I would be glad to help you out.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+Don%E2%80%99t+trust+Zestimates.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+Don%E2%80%99t+trust+Zestimates.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Are Zestimates a reliable source of home values? In short, no.
+
+</itunes:subtitle>
+        <itunes:author>Jason Delatte</itunes:author>
+        <itunes:summary>
+
+Are Zestimates a reliable source of home values? In short, no.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Louisiana, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Now Is the Best Time to Take Advantage of Our Market</title>
+        <link>http://localhost:4000/jason-delatte-louisiana-real-estate.html</link>
         
           <category>Market Update</category>
         
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
-        
         <author>Jason Delatte</author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-05-31 10:17:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+A+look+at+what%E2%80%99s+happening+in+our+market.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Today I want to give you quick look at some numbers from our market.
 
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Want to sell your home? Get a FREE home value report
+Want to buy a home? Search all homes for sale
 
 
+How’s our market doing right now? Are homes selling? Are people buying?
 
-  list item
-  list item
-  list item
-  list item
-  list item
+The median home price increased this month to $228,000, which is up 7.7% from this month last year. That means if you’re a seller, it’s a good idea to get your home on the market now.
 
+I’ve got some news for buyers as well. According to Freddie Mac, the average 30-year fixed mortgage rate is 4.2%, which is an increase from last month’s average rate of 4.15%. So if you are looking to purchase a home, now is the best time to do so.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+“BOTH BUYERS AND SELLERS SHOULD TAKE ADVANTAGE OF THE MARKET NOW RATHER THAN WAITING.”
 
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you’d like to learn more about how these numbers directly affect you, or if you have any questions about buying or selling a home, feel free to give me a call or send me an email. I’m more than happy to help.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+A+look+at+what%E2%80%99s+happening+in+our+market.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+A+look+at+what%E2%80%99s+happening+in+our+market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>
+
+Today I want to give you quick look at some numbers from our market.
+
+</itunes:subtitle>
         <itunes:author>Jason Delatte</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>
+
+Today I want to give you quick look at some numbers from our market.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Louisiana, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Valuable New Resource for You</title>
+        <link>http://localhost:4000/a-valuable-new-resource-for-you.html</link>
+        
+          <category>Louisiana Real Estate</category>
+        
+        <author>Jason Delatte</author>
+        <pubDate>2017-05-18 14:37:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+Welcome+To+My+Youtube+Channel.mp4</guid>
+        <description>
+
+On my channel, you’ll find tips for both buyers and sellers in the real estate market, as well as updates on what’s happening in our local market. The real estate market affects all of us!
+
+
+Want to sell your home? Get a FREE home value report
+Want to buy a home? Search all homes for sale
+
+
+I really want this page to be a valuable resource for you. If you have any questions about our market or about real estate in general, send me an email. Odds are good that if you have a question about a topic, someone else does as well, so send your questions my way and we’ll make an educational video.
+
+Take a look around the channel and subscribe. I look forward to hearing from you soon!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+Welcome+To+My+Youtube+Channel.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jason+Delatte/Jason+Delatte++Louisiana+Real+Estate+Welcome+To+My+Youtube+Channel.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+On my channel, you’ll find tips for both buyers and sellers in the real estate market, as well as updates on what’s happening in our local market. The real estate market affects all of us!
+
+</itunes:subtitle>
+        <itunes:author>Jason Delatte</itunes:author>
+        <itunes:summary>
+
+On my channel, you’ll find tips for both buyers and sellers in the real estate market, as well as updates on what’s happening in our local market. The real estate market affects all of us!
+
+</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Louisiana, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
