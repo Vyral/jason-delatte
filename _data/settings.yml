@@ -1,47 +1,49 @@
 audit_header: false
 title: Louisiana Real Estate Video Blog with Jason Delatte
 description: Our mission at Delatte Group is to be your best resource for Louisiana real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Delatte Group, your professional Louisiana Real Estate Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Our Listings
+    url: https://www.thedelattegroup.com/listings-search/#/398466887
+  - title: About
+    url: https://www.thedelattegroup.com/about/
 
 client:
-  name: Jason Delatte
+  name: Jason and Tee Delatte
   title:
   license_number:
   about_markdown: |
     Our philosophy is simple: clients come first. We pledge to be in constant communication with our clients, keeping them fully informed throughout the entire buying or selling process. We believe that if you’re not left with an amazing experience, we haven’t done our job. We don’t measure success through achievements or awards, but through the satisfaction of our clients.
   market: Louisiana
-  brand: Delatte Group
-  brokerage: Keller Williams Realty Bayou Partners
+  brand: The Delatte Group
+  brokerage: Keller Williams Realty Bayou Partners<br>Independently Owned & Operated
   address: 307 Bayou Gardens Blvd<br>Houma, LA 70364
   phone: 985-859-3375
   phone_type: Cell
   phone2: 985-262-4400
   phone2_type: Office
   email: jasondelatte@kw.com
-  url: http://JasonDelatte.com
+  url: https://www.TheDelatteGroup.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.jasondelatte.com/your-home-valuation/
+  first_CTA_URL: https://www.thedelattegroup.com/your-home-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.jasondelatte.com/listings-search/#/398466887
+  second_CTA_URL: https://www.thedelattegroup.com/listings-search/#/398466887
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your Louisiana Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.jasondelatte.com/your-home-valuation/
+    CTA_url: https://www.thedelattegroup.com/your-home-valuation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a Louisiana Home?"
     CTA_text2: "Search the entire MLS for your Louisiana home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.jasondelatte.com/listings-search/#/398466887
+    CTA_url2: https://www.thedelattegroup.com/listings-search/#/398466887
 
 lender:
   show_section: false
@@ -58,8 +60,8 @@ lender:
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/thedelattedifference/
-  linkedin_url: https://www.linkedin.com/in/jason-delatte-realtor-b68502103/
-  gplus_url: https://plus.google.com/b/104389134788092725959
+  linkedin_url: https://www.linkedin.com/in/jason-delatte-22a814165/
+  gplus_url: https://plus.google.com/104389134788092725959
   youtube_url: https://www.youtube.com/channel/UCU-ArBNUn3VqLI23ZdwMaUQ
   twitter_url: https://twitter.com/JasonDelatte
   instagram_url:
