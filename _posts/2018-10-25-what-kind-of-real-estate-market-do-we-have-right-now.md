@@ -20,7 +20,7 @@ youtube_code: NpCRGpwm0FY
 
 Have you been toying around with the idea of selling your home, but you just aren’t ready to take the plunge? **I believe there is one major factor that will help you make your decision:** Knowing how to determine what our local housing market is doing.
 
-One question I hear on a weekly basis is, “What’s the difference between a buyer’s market and a seller’s market?” Being in a buyer’s market vs. being in a seller’s market can make a huge difference in the length of time it takes your property to sell, the amount of offers you may get on your home, and how much you can get your home sold for.
+One question I hear on a weekly basis is, “What’s the difference between a buyer’s market and a seller’s market?” Being in a buyer’s market versus being in a seller’s market can make a huge difference in the length of time it takes your property to sell, the amount of offers you may get on your home, and how much you can get your home sold for.
 
 {% include pullquote.html %}
 
