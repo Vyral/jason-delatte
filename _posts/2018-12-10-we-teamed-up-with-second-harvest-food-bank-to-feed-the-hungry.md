@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Teamed Up with Second Harvest Food Bank to Feed the Hungry
-date: 2018-12-10 19:29:20
+date: 2018-12-10 19:29:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: NVWYCb3Vy58
+youtube_code: Zn08NEzGJeM
 ---
 
 {% include youtube.html %}
@@ -28,5 +28,3 @@ We’ve decided to donate a portion of every home sale made by the Delatte Group
 **97% of all donations made to the Second Harvest Food Bank go directly back into the community, so we are incredibly excited about this partnership.**
 
 If you have any other questions, would like more information, or are curious about how you can make an impact by volunteering at the Second Harvest Food Bank this holiday season, feel free to give us a call or send us an email. We look forward to hearing from you soon. God Bless.
-
-&nbsp;
