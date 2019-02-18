@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have We Officially Entered a Buyer’s Market?
-date: 2019-02-18 19:15:24
+date: 2019-02-18 07:15:00
 tags:
   - Market Update
 excerpt: >-
