@@ -3,7 +3,6 @@ layout: post
 title: Have We Officially Entered a Buyer’s Market?
 date: 2019-02-17 07:15:00
 tags:
-  - Market Update
 excerpt: >-
   Home prices are at an all-time high and both affordability and demand are
   dropping, which means the time to act is now if you’re a seller.
