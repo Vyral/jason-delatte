@@ -31,6 +31,6 @@ Now, what does this fundamental market shift mean for you?
 
 **If you’re looking to sell, the time to act is now.** There is still high demand for homes in our area, but over the next several months, the national trends will eventually catch up with our marketplace. If you list soon, you’ll be able to take advantage of these high prices and solid demand. In other words, you can sell quickly and for top dollar.
 
-If you’re ready to get started with the home selling process and you’d like to know what your home is currently worth, you can use the home value calculator right here on our website.
+If you’re ready to get started with the home selling process and you’d like to know what your home is currently worth, you can use the [home value calculator right here on our website.](https://www.thedelattegroup.com/cma/property-valuation/){: target="_blank"}
 
 If you’re thinking of buying a home or you have any other questions about our market, don’t hesitate to reach out to me. I’d be glad to help you.
