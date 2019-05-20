@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How You Can Get Multiple Offers on Your Home
-date: 2019-05-20 15:14:12
+date: 2019-05-20 15:14:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -13,8 +13,8 @@ pullquote: >-
   correctly from the beginning.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/5-14-19small.jpg
 youtube_code: zFRoIReoL8Q
 ---
 
